@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "debate": "./debatev1.py:graph"
+  }
+}

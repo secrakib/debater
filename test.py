@@ -1,4 +1,4 @@
-from debatev1 import republican_node,DebateState,AIMessage
+from debate import republican_node,DebateState,AIMessage
 
 state = DebateState(
     question="Should taxes be increased on the wealthy?",
